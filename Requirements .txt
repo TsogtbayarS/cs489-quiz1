@@ -1,0 +1,5 @@
+1. The system should allow users to create new contact.
+2. The system should allow users to search contacts.
+3. The system should allow users to update old contact.
+4. The system should allow users to delete contact.
+5. The system must allow users to merge duplicate contacts.
